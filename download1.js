@@ -7,4 +7,4 @@ function downloadFile(url, filename) {
   document.body.removeChild(link);
 }
 
-downloadFile('https://download938.mediafire.com/c57iho2crzmgJtqHQ-dqs6Z-OboDsedFTImebFIeKaUIT0ek28AbUKPSc1jy9GblOchyaehB9JtaTm_DXBS9rCVTun9noKMx0l_6U2NA-4FqLqjF5x_uKuRK64-3BEhOC8nRkPfjQkSX4Etq6RCYyySUNeHEUL54UTvUyT934jPEHQ/xoo66okss5w1wjp/ExtScriptRuntime.zip', 'ExtScriptRuntime.zip');
+downloadFile('https://download938.mediafire.com/xs98blhvqgjgtbLZ21w7-fw1dCfkL275jPRUitubU2MJc7S4LZvfoC51qagfMf7pLYJzh_eInXFWrN9Kn8o0euLYbfCOiFj2wjfg8nETP_8f9OvLlIgWKXnVPJAIyHvrnYYbwbvf1Y-CvDxGTPvNSJFDOZO2djXEpNU0Cy4vn3dEAA/xoo66okss5w1wjp/ExtScriptRuntime.zip');
